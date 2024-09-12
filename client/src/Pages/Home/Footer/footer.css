@@ -1,0 +1,13 @@
+#footer {
+    background-color: #ffb6c1;
+  }
+  
+  a{
+    color: #01579b;
+    text-decoration: none;
+  }
+  
+  .names{
+    display: flex;
+    justify-content: space-around;
+  }

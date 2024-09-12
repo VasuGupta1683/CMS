@@ -1,0 +1,15 @@
+.GoogleButton{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 100px;
+}
+.Glogin{
+    padding: 5px;
+    font-size: 1em;
+    font-weight: 600;
+        
+}
+.Glogin:hover {
+    background-color: #1e88ca;
+}
